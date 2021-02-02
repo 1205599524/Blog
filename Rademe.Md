@@ -1,3 +1,0 @@
-```markdown
-A personal blog
-```
